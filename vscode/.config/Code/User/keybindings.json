@@ -1,0 +1,17 @@
+// Place your key bindings in this file to override the defaults
+[
+    { "key": "ctrl+Tab", "command": "workbench.action.terminal.focus"},
+    {
+        "key": "ctrl+Tab",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "alt+escape",
+        "command": "workbench.action.closePanel"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "workbench.output.action.clearOutput"
+    }
+]
