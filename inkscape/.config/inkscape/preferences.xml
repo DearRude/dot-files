@@ -339,8 +339,8 @@
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
        selcue="1">
       <group
-         display_unit="0"
-         id="lineheight" />
+         id="lineheight"
+         display_unit="0" />
     </eventcontext>
     <eventcontext
        id="nodes"
@@ -358,10 +358,10 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="-359.089"
-       y="650.268"
+       x="447.512"
+       y="487.236"
        edit_clipping_paths="1"
-       edit_masks="0" />
+       edit_masks="1" />
     <eventcontext
        id="tweak"
        selcue="0"
@@ -429,12 +429,14 @@
        offset="0"
        offsetunits="cm" />
     <group
-       unit="mm"
-       offset="5"
-       scale="100"
-       precision="2"
+       id="measure"
        fontsize="10"
-       id="measure" />
+       precision="2"
+       scale="100"
+       offset="5"
+       unit="mm"
+       measure-start="443.704,487.229"
+       measure-end="442.559,393.387" />
   </group>
   <group
      id="palette">
@@ -582,11 +584,11 @@
        panel_border="0"
        x="0"
        y="0"
-       w="356"
-       h="332"
+       w="306"
+       h="187"
        visible="1"
-       state="2"
-       placement="2" />
+       state="3"
+       placement="1" />
     <group
        id="textandfont" />
     <group
@@ -671,10 +673,10 @@
        panel_border="0"
        x="0"
        y="0"
-       w="356"
+       w="317"
        h="463"
        visible="1"
-       state="2"
+       state="3"
        placement="1">
       <group
          id="exportarea"
@@ -751,19 +753,19 @@
        on-blur="0.50"
        animate-time="100" />
     <group
-       id="glyphs"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       panel_border="0"
-       x="0"
-       y="0"
-       w="392"
-       h="296"
-       visible="0"
+       placement="1"
        state="2"
-       placement="1" />
+       visible="0"
+       h="296"
+       w="392"
+       y="0"
+       x="0"
+       panel_border="0"
+       panel_wrap="0"
+       panel_mode="1"
+       panel_ratio="100"
+       panel_size="1"
+       id="glyphs" />
   </group>
   <group
      id="printing">
@@ -1114,7 +1116,7 @@
      org.inkscape.effect.filter.FeltFeather.__live_effect__="0" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:#ff0000;font-size:42.66666667px;-inkscape-font-specification:'Fira Sans Compressed';font-family:'Fira Sans Compressed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">
+     style="line-height:1.25;fill:#ff2a2a;font-size:42.66666667px;-inkscape-font-specification:'Fira Sans Compressed';font-family:'Fira Sans Compressed';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:#aa0000">
     <group
        width="1340"
        height="725"
