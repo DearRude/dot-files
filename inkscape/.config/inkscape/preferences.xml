@@ -133,10 +133,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="110.862"
-         height="374.564"
+         width="419.006"
+         height="1415.67"
          rx="0"
-         ry="55.3415" />
+         ry="209.165" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -173,8 +173,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="402.331"
-         ry="402.331" />
+         rx="1520.62"
+         ry="1520.62" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -581,10 +581,10 @@
        id="toolbox" />
     <group
        id="fillstroke"
-       page="0"
+       page="2"
        x="0"
        y="0"
-       w="378"
+       w="411"
        h="441"
        visible="1"
        state="2"
@@ -633,11 +633,11 @@
        align-to="0"
        x="0"
        y="0"
-       w="378"
-       h="334"
+       w="411"
+       h="645"
        visible="1"
        state="2"
-       placement="1" />
+       placement="5" />
     <group
        id="xml" />
     <group
@@ -705,11 +705,11 @@
        panel_border="0"
        x="0"
        y="0"
-       w="477"
-       h="479"
-       visible="0"
+       w="411"
+       h="645"
+       visible="1"
        state="2"
-       placement="1">
+       placement="5">
       <group
          id="exportarea"
          value="page" />
@@ -1173,13 +1173,13 @@
      org.inkscape.input.svg.scale="auto" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:#ffcc00;font-size:18.66666667px;-inkscape-font-specification:Gandom;font-family:Gandom;stroke-width:3.77952756;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:square">
+     style="line-height:1.25;fill:#000000;font-size:18.66666667px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:5.15905512;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;font-weight:bold;stroke:#000000;opacity:0.81420014">
     <group
        width="1340"
        height="725"
        x="10"
        y="27"
-       fullscreen="0"
+       fullscreen="1"
        id="geometry"
        maximized="0" />
     <group

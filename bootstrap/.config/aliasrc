@@ -49,3 +49,4 @@ alias \
 	ref="shortcuts >/dev/null; source ~/.config/shortcutrc" \
 	find-pac="pacman -Qq | fzf --preview 'pacman -Qil {}' --layout=reverse --bind 'enter:execute(pacman -Qil {} | less)'" \
 	weath="less -S ~/.local/share/weatherreport" \
+  mountkobo="sshfs -p 5656 root@192.168.43.126:mnt/onboard /mnt/kobo" \

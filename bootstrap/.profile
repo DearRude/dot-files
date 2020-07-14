@@ -52,7 +52,6 @@ mpd ~/.config/mpd/mpd.conf >/dev/null 2>&1 &
 
 # Start graphical server on tty1 if not already running.
 [ "$(tty)" = "/dev/tty1" ] && ! pgrep -x Xorg >/dev/null && exec startx
-#cdm
 
 
 # Switch escape and caps if tty and no passwd required:
