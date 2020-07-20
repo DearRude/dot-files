@@ -72,3 +72,6 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 export HISTFILE="~/.hist"
 export HISTCONTROL=ignorespace:ignoredups
+
+# Add zfunc
+fpath+=~/.zfunc
