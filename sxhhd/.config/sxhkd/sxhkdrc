@@ -176,3 +176,8 @@ super + {comma,period}
 #super + {F9,F10}
 #	{dmenumount,dmenuumount}
 #
+
+
+# Mouse toggle mining for Minecraft
+super + alt + m
+  xdotool mousedown 1

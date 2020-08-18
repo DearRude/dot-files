@@ -10,3 +10,5 @@
   lg = !"git lg1"
 [credential]
 	helper = store
+[gpg]
+	program = gpg2
