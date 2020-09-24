@@ -1,7 +1,5 @@
 {
-    "editor.fontFamily": "'UbuntuMono-R', 'monospace', monospace, 'Droid Sans Fallback'",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Monokai Dimmed",
     "workbench.activityBar.visible": false,
     "editor.minimap.enabled": false,
     "python.pythonPath": "/usr/bin/python3",
@@ -19,7 +17,7 @@
     "liveshare.anonymousGuestApproval": "accept",
     "liveshare.allowGuestDebugControl": true,
     "liveshare.accountProvider": "",
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 13,
     "editor.fontWeight": "200",
     "editor.formatOnType": true,
@@ -31,7 +29,7 @@
     "terminal.integrated.lineHeight": 1.2,
     "prettier.resolveGlobalModules": true,
     "highlight.regexes": {
-    
+
     },
     "window.menuBarVisibility": "toggle",
     "vsicons.dontShowNewVersionMessage": true,
@@ -41,4 +39,13 @@
         "Sosha"
     ],
     "explorer.confirmDragAndDrop": false,
+    "editor.accessibilitySupport": "off",
+    "workbench.editor.tabSizing": "shrink",
+    "prettier.tabWidth": 4,
+    "latex-workshop.bibtex-format.tab": "4 spaces",
+    "editor.fontFamily": "Fira Code SemiBold, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.codeActionsOnSave": null,
+    "workbench.colorTheme": "Andromeda Colorizer",
+    "editor.formatOnPaste": true
 }
