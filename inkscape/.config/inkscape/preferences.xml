@@ -133,10 +133,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="419.006"
-         height="1415.67"
+         width="696.409"
+         height="733.049"
          rx="0"
-         ry="209.165" />
+         ry="348.117" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -173,8 +173,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="1520.62"
-         ry="1520.62" />
+         rx="5747.23"
+         ry="5747.23" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -332,7 +332,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px"
+       unit="mm"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -342,7 +342,8 @@
        show_sample_in_list="1"
        use_svg2="1"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
-       selcue="1">
+       selcue="1"
+       align_mode="1">
       <group
          display_unit="0"
          id="lineheight" />
@@ -581,12 +582,12 @@
        id="toolbox" />
     <group
        id="fillstroke"
-       page="2"
+       page="0"
        x="0"
        y="0"
        w="411"
-       h="441"
-       visible="1"
+       h="492"
+       visible="0"
        state="2"
        placement="2" />
     <group
@@ -634,8 +635,8 @@
        x="0"
        y="0"
        w="411"
-       h="645"
-       visible="1"
+       h="479"
+       visible="0"
        state="2"
        placement="5" />
     <group
@@ -706,13 +707,13 @@
        x="0"
        y="0"
        w="411"
-       h="645"
+       h="547"
        visible="1"
        state="2"
        placement="5">
       <group
          id="exportarea"
-         value="page" />
+         value="drawing" />
       <group
          id="defaultxdpi"
          value="96.1" />
@@ -733,7 +734,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/dearrude/" />
+       path="/home/dearrude/Downloads/Telegram Desktop/" />
     <group
        id="import"
        enable_preview="1"
@@ -1173,13 +1174,13 @@
      org.inkscape.input.svg.scale="auto" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:#000000;font-size:18.66666667px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:5.15905512;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;font-weight:bold;stroke:#000000;opacity:0.81420014">
+     style="line-height:1.25;fill:none;font-size:192px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:5.15905512;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;font-weight:bold;stroke:#2b0000;opacity:0.81420014;text-anchor:middle;text-align:center">
     <group
-       width="1340"
-       height="725"
-       x="10"
-       y="27"
-       fullscreen="1"
+       width="1342"
+       height="727"
+       x="9"
+       y="26"
+       fullscreen="0"
        id="geometry"
        maximized="0" />
     <group

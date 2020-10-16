@@ -47,5 +47,11 @@
     "editor.fontLigatures": true,
     "editor.codeActionsOnSave": null,
     "workbench.colorTheme": "Andromeda Colorizer",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "files.associations": {
+        ".pylintrc": "toml"
+    },
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "code-runner.enableAppInsights": false
 }
