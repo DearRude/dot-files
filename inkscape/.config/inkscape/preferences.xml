@@ -133,10 +133,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="696.409"
-         height="733.049"
+         width="448"
+         height="448"
          rx="0"
-         ry="348.117" />
+         ry="89.6" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -173,8 +173,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="5747.23"
-         ry="5747.23" />
+         rx="82098.1"
+         ry="82098.1" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -332,7 +332,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="mm"
+       unit="px"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -363,8 +363,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="1445.36"
-       y="640.471"
+       x="262.47"
+       y="636.222"
        edit_clipping_paths="1"
        edit_masks="1"
        highlight_color="4278190335" />
@@ -587,7 +587,7 @@
        y="0"
        w="411"
        h="492"
-       visible="0"
+       visible="1"
        state="2"
        placement="2" />
     <group
@@ -631,10 +631,10 @@
        placement="1" />
     <group
        id="align"
-       align-to="0"
+       align-to="4"
        x="0"
        y="0"
-       w="411"
+       w="448"
        h="479"
        visible="0"
        state="2"
@@ -657,10 +657,10 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="693"
-       y="33"
-       w="200"
-       h="200"
+       x="0"
+       y="0"
+       w="638"
+       h="666"
        visible="0"
        placement="1" />
     <group
@@ -713,17 +713,17 @@
        placement="5">
       <group
          id="exportarea"
-         value="drawing" />
+         value="page" />
       <group
          id="defaultxdpi"
-         value="96.1" />
+         value="95.4375" />
     </group>
     <group
        id="save_as"
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path=""
+       path="/home/dearrude/repos/personal-bot/assets/frames"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -734,7 +734,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/dearrude/Downloads/Telegram Desktop/" />
+       path="/home/dearrude/scripts/cs-fum-logo/" />
     <group
        id="import"
        enable_preview="1"
@@ -1174,12 +1174,12 @@
      org.inkscape.input.svg.scale="auto" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:none;font-size:192px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:5.15905512;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;font-weight:bold;stroke:#2b0000;opacity:0.81420014;text-anchor:middle;text-align:center">
+     style="line-height:1.25;fill:#cdde87;font-size:192px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:20;stroke-linejoin:round;stroke-linecap:round;font-weight:bold;text-anchor:middle;text-align:center;stroke:#6f918a;fill-opacity:0.74131757">
     <group
-       width="1342"
-       height="727"
-       x="9"
-       y="26"
+       width="1336"
+       height="721"
+       x="12"
+       y="29"
        fullscreen="0"
        id="geometry"
        maximized="0" />

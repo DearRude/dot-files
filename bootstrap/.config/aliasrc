@@ -10,7 +10,8 @@ alias \
 	mkd="mkdir -pv" \
 	yt="youtube-dl --add-metadata -i" \
 	yta="yt -x -f bestaudio/best" \
-	ffmpeg="ffmpeg -hide_banner"
+	ffmpeg="ffmpeg -hide_banner" \
+	ap="ansible-playbook"
 
 # Colorize commands when possible.
 alias \
@@ -43,10 +44,11 @@ alias \
 
 # Some other stuff
 alias \
-  pb="netcat termbin.com 9999 | xclip -selection c" \
-  hb="hastebin | xclip -selection c" \
+	pb="netcat termbin.com 9999 | xclip -selection c" \
+	hb="hastebin | xclip -selection c" \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ~/.config/shortcutrc" \
 	find-pac="pacman -Qq | fzf --preview 'pacman -Qil {}' --layout=reverse --bind 'enter:execute(pacman -Qil {} | less)'" \
 	weath="less -S ~/.local/share/weatherreport" \
-  mountkobo="sshfs -p 5656 root@192.168.43.126:mnt/onboard /mnt/kobo" \
+	mountkobo="sshfs -p 22 root@192.168.43.247:mnt/onboard /mnt/kobo" \
+	discord="discord --proxy-server=socks5://127.0.0.1:1080" \

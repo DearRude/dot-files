@@ -36,7 +36,8 @@
     "latex-workshop.message.update.show": false,
     "latex-workshop.view.pdf.viewer": "tab",
     "cSpell.userWords": [
-        "Sosha"
+        "Sosha",
+        "pytest"
     ],
     "explorer.confirmDragAndDrop": false,
     "editor.accessibilitySupport": "off",
@@ -53,5 +54,14 @@
     },
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "code-runner.enableAppInsights": false
+    "code-runner.enableAppInsights": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.enableTelemetry": true,
+    "julia.lint.run": true,
+    "workbench.editorAssociations": [],
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    }
 }
