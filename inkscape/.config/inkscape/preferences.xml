@@ -133,10 +133,10 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="448"
-         height="448"
+         width="317.202"
+         height="342.975"
          rx="0"
-         ry="89.6" />
+         ry="0" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -341,7 +341,7 @@
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
        use_svg2="1"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
+       style="font-family:sans-serif;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
        selcue="1"
        align_mode="1">
       <group
@@ -582,11 +582,11 @@
        id="toolbox" />
     <group
        id="fillstroke"
-       page="0"
+       page="2"
        x="0"
        y="0"
        w="411"
-       h="492"
+       h="441"
        visible="1"
        state="2"
        placement="2" />
@@ -707,16 +707,16 @@
        x="0"
        y="0"
        w="411"
-       h="547"
+       h="479"
        visible="1"
        state="2"
-       placement="5">
+       placement="1">
       <group
          id="exportarea"
          value="page" />
       <group
          id="defaultxdpi"
-         value="95.4375" />
+         value="127" />
     </group>
     <group
        id="save_as"
@@ -734,11 +734,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/dearrude/scripts/cs-fum-logo/" />
+       path="/home/dearrude/Downloads/Telegram Desktop/" />
     <group
        id="import"
        enable_preview="1"
-       path="/home/dearrude/Downloads/colorful-number-collection-with-signs/"
+       path="/home/dearrude/Downloads/Telegram Desktop/"
        ask="1"
        ask_svg="1"
        link="embed"
@@ -1108,6 +1108,9 @@
     <group
        id="font"
        unitType="2" />
+    <group
+       id="middlemousezoom"
+       value="1" />
   </group>
   <group
      id="extensions"
@@ -1174,12 +1177,12 @@
      org.inkscape.input.svg.scale="auto" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:#cdde87;font-size:192px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:20;stroke-linejoin:round;stroke-linecap:round;font-weight:bold;text-anchor:middle;text-align:center;stroke:#6f918a;fill-opacity:0.74131757">
+     style="line-height:1.25;fill:none;font-size:192px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;stroke-width:3.74929134;stroke-linejoin:round;stroke-linecap:round;font-weight:bold;text-anchor:middle;text-align:center;stroke:#000000;fill-rule:evenodd">
     <group
-       width="1336"
-       height="721"
-       x="12"
-       y="29"
+       width="1348"
+       height="733"
+       x="6"
+       y="23"
        fullscreen="0"
        id="geometry"
        maximized="0" />
