@@ -51,4 +51,5 @@ alias \
 	find-pac="pacman -Qq | fzf --preview 'pacman -Qil {}' --layout=reverse --bind 'enter:execute(pacman -Qil {} | less)'" \
 	weath="less -S ~/.local/share/weatherreport" \
 	mountkobo="sshfs -p 22 root@192.168.43.247:mnt/onboard /mnt/kobo" \
+  ssh="TEM=xterm-256color ssh" \
 	discord="discord --proxy-server=socks5://127.0.0.1:1080" \

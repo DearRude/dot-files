@@ -1,5 +1,4 @@
 {
-    "window.zoomLevel": 0,
     "workbench.activityBar.visible": false,
     "editor.minimap.enabled": false,
     "python.pythonPath": "/usr/bin/python3",
@@ -60,8 +59,14 @@
     ],
     "julia.enableTelemetry": true,
     "julia.lint.run": true,
-    "workbench.editorAssociations": [],
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
     "[yaml]": {
         "editor.defaultFormatter": "redhat.vscode-yaml"
-    }
+    },
+    "liveshare.authenticationProvider": "GitHub"
 }
